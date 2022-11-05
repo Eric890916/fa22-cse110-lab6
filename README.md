@@ -1,4 +1,4 @@
 # Lab 6 - Starter
 Hung-Yu Ko (Eric) A15909368
 
-https://eric890916.github.io/fa22-cse110-lab6/index.html
+https://eric890916.github.io/fa22-cse110-lab6/
